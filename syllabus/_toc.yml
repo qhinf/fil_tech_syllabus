@@ -6,7 +6,11 @@ format: jb-book
 root: index
 options:
   numbered: true
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+  - caption: Over de module
+    chapters:
+    - file: voorbereiding
+    # - file: beoordeling
+  # - caption: Onderwerpen
+  #   chapters:
+  #   - file: ...
