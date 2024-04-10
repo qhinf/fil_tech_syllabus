@@ -11,6 +11,6 @@ parts:
     chapters:
     - file: voorbereiding
     # - file: beoordeling
-  # - caption: Onderwerpen
-  #   chapters:
-  #   - file: ...
+  - caption: Onderwerpen
+    chapters:
+    - file: onderwerpen/rechtspraak
