@@ -10,7 +10,22 @@ parts:
   - caption: Over de module
     chapters:
     - file: voorbereiding
-    # - file: beoordeling
+    - file: beoordeling
   - caption: Onderwerpen
     chapters:
     - file: onderwerpen/rechtspraak
+    - file: onderwerpen/smart_city
+    - file: onderwerpen/gezichtsherkenning
+
+    - file: onderwerpen/ai
+    - file: onderwerpen/deepfakes
+    - file: onderwerpen/ai_kunst
+
+    - file: onderwerpen/flitshandel
+    - file: onderwerpen/bitcoin
+
+    - file: onderwerpen/toekomstscenarios
+    - file: onderwerpen/crispr-cas
+    - file: onderwerpen/brain-computer_interfaces
+
+    - file: onderwerpen/ruimtekolonisatie
