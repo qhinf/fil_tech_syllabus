@@ -24,7 +24,7 @@ Suggesties voor bronnen:
 
   Kunnen we wetgeving meer "recht toe recht aan" maken? Geautomatiseerde handhaving kan zo zijn gevolgen hebben...
 
-- [CPO Academy: "De rechtspraak leent zich natuurlijk niet voor 'computer says no'-achtige scenario's"](https://www.ru.nl/cpo/academy/columns/rechtspraak-leent-natuurlijk-computer-says-no/) (2018)
+- [CPO Academy: "De rechtspraak leent zich natuurlijk niet voor 'computer says no'-achtige scenario's"](https://web.archive.org/web/20231204071203/https://www.ru.nl/cpo/academy/columns/rechtspraak-leent-natuurlijk-computer-says-no/) (2018)
 
   \*\* / Mr. Jozua van der Beek wil voorzichtigheid, maar ziet mogelijkheden voor ondersteuning.
 
