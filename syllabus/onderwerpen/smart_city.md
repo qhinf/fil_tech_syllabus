@@ -24,7 +24,7 @@ Een slimme stad vol technologie. Zitten daar ook risico's aan? Hoe gaan we daarm
 
 - [Netkwesties: Smart city? Niet doen!](https://www.netkwesties.nl/1490/smart-city-niet-doen.htm) (2021)
 
-  Hoogleraar Herman van den Bosch vindt dat smart cities vaak niet de echte problemen oplossen.
+  \*\* / Hoogleraar Herman van den Bosch vindt dat smart cities vaak niet de echte problemen oplossen.
 
 - [Gebiedsontwikkeling.nu: Maakt de slimme stad ons juist dom?](https://www.gebiedsontwikkeling.nu/artikelen/maakt-de-slimme-stad-ons-juist-dom/) (2021)
 
