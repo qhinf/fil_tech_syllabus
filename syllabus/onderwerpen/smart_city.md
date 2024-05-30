@@ -8,7 +8,7 @@ Een slimme stad vol technologie. Zitten daar ook risico's aan? Hoe gaan we daarm
 
 - [Oracle: Wat is een slimme stad?](https://www.oracle.com/nl/government/smart-cities/what-is-a-smart-city/) (n.d.)
 
-  Introductie van de verschillende aspecten van een slimme stad. Ook hier: houdt er wel rekening mee dat Oracle jou graag de software voor je slimme stad zou verkopen.
+  \*\* / Introductie van de verschillende aspecten van een slimme stad. Ook hier: houdt er wel rekening mee dat Oracle jou graag de software voor je slimme stad zou verkopen.
 
 - [Huxley: Smart cities: hoe technologie een stad slimmer maakt](https://www.huxley.com/nl-nl/blog/stem-trends/it/smart-cities-hoe-technologie-een-stad-slimmer-maakt/) (2021)
 
@@ -32,11 +32,11 @@ Een slimme stad vol technologie. Zitten daar ook risico's aan? Hoe gaan we daarm
 
 - [De Correspondent: In de stad van de toekomst praten lantaarnpalen mee en burgers niet](https://decorrespondent.nl/9148/in-de-stad-van-de-toekomst-praten-lantaarnpalen-mee-en-burgers-niet/2704b9ee-2939-0ea1-0cae-cf446620f2c3) (2019)
 
-  Maurits Martijn en Sanne Blauw doen verslag van de Smart City Expo 2018 in Barcelona. Over waar de bedrijven daar reclame voor maken en ook waar ze het juist niet over hebben.
+  \*\* / Maurits Martijn en Sanne Blauw doen verslag van de Smart City Expo 2018 in Barcelona. Over waar de bedrijven daar reclame voor maken en ook waar ze het juist niet over hebben.
 
   - [De Correspondent: Zo voorkomen we dat onze steden veranderen in laboratoria voor techbedrijven](https://decorrespondent.nl/8977/zo-voorkomen-we-dat-onze-steden-veranderen-in-laboratoria-voor-techbedrijven/c64378e4-c8ba-04c6-2d14-0d0db3cee756) (2019)
 
-    Een vervolg op het vorige artikel: zijn er alternatieven om een smart city op te bouwen met inspraak door inwoners, zonder afhankelijkheid van één groot bedrijf en met privacy?
+    \*\* / Een vervolg op het vorige artikel: zijn er alternatieven om een smart city op te bouwen met inspraak door inwoners, zonder afhankelijkheid van één groot bedrijf en met privacy?
 
 - [Amsterdam Smart City](https://amsterdamsmartcity.com/) (n.d.)
 
