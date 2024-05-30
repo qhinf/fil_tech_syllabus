@@ -8,7 +8,7 @@ Suggesties voor bronnen:
 
   Hoogleraar Recht in Informatica aan de Universiteit Leiden Jaap van den Herik voorspelt dat tussen 2030 en 2040 computers het merendeel van de vonnissen zullen uitspreken.
 
-- [OpenRecht: Computers zullen nooit rechtspreken!](https://www.openrecht.nl/commentaar/e5b18b58-f90c-4960-850b-f3e34eb100bb/) (2022) en [Recht.nl: Column: De zwarte doos gaat rechtspreken?!](https://www.recht.nl/5822486b48edcf151603/column-de-zwarte-doos-gaat-rechtspreken) (2016)
+- [OpenRecht: Computers zullen nooit rechtspreken!](https://web.archive.org/web/20220814080228/https://www.openrecht.nl/commentaar/e5b18b58-f90c-4960-850b-f3e34eb100bb/) (2022) en [Recht.nl: Column: De zwarte doos gaat rechtspreken?!](https://www.recht.nl/5822486b48edcf151603/column-de-zwarte-doos-gaat-rechtspreken) (2016)
 
   Leo van der Wees (Senior raadsadviseur Recht & ICT bij de Raad voor de Rechtspraak, maar hier op persoonlijke titel) heeft wel wat kanttekeningen bij de uitspraken van Van den Herik.
 
