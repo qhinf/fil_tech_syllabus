@@ -8,7 +8,7 @@ Wat als elke bewakingscamera jou kan herkennen? En jou meteen kan linken aan fot
 
 - [Autoriteit Persoonsgegevens: Gezichtsherkenning](https://www.autoriteitpersoonsgegevens.nl/themas/identificatie/biometrie/gezichtsherkenning) (n.d.)
 
-  Over de regelgeving omtrent gezichtsherkenning vanuit het privacyperspectief.
+  \*\* / Over de regelgeving omtrent gezichtsherkenning vanuit het privacyperspectief.
 
 - [Nieuwsuur: Gaat de politie te ver met gezichtsherkenning?](https://nos.nl/nieuwsuur/video/2505548-gaat-de-politie-te-ver-met-gezichtsherkenning) (2024)
 
@@ -20,7 +20,7 @@ Wat als elke bewakingscamera jou kan herkennen? En jou meteen kan linken aan fot
 
 - [De Correspondent: Van swipe tot stalk: daten ten tijde van gezichtsherkenning](https://decorrespondent.nl/15120/van-swipe-tot-stalk-daten-ten-tijde-van-gezichtsherkenning/b84dacd1-83f6-09a8-2235-623caa8fa9b1) (2024)
 
-  Tamar Stelling gebruikt gezichtenzoekmachine PimEyes om haar Tindermatches na te trekken. Ze vraagt zich in dit artikel af: mag dat?
+  \*\* / Tamar Stelling gebruikt gezichtenzoekmachine PimEyes om haar Tindermatches na te trekken. Ze vraagt zich in dit artikel af: mag dat?
 
   - [PimEyes](https://pimeyes.com/en) (n.d.)
 
