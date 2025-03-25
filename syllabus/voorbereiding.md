@@ -3,6 +3,10 @@
 Als voorbereiding op de dagmodule hebben we drie opdrachten voor je. Neem je uitwerkingen mee naar de dagmodule!
 
 1. Bekijk de onderwerpen die te maken hebben filosofie van de technologie. Welke lijken jou interessant om verder in te duiken? Kruis er drie aan.
+   
+   [![Een poster van verschillende onderwerpen die te maken hebben met filosofie van de technologie](assets/Onderwerpen.png)](assets/Onderwerpen.pdf)
+   
+   *Klik [hier](assets/Onderwerpen.pdf) of op de afbeelding om een grotere versie te bekijken.*
 
 Tijdens de dagmodule gaan jullie aan de slag als een filosofisch-technologische denktank over een van die onderwerpen. In de ochtend gaan we oefenen met die vorm aan de hand van het onderwerp **autonome wapens**. Eind vorig jaar werd er bij de Verenigde Naties een resolutie aangenomen die vraagt om dit jaar een bredere discussie te voeren over autonome wapens.[^l77] Wat zouden wij als advies meegeven?
 
