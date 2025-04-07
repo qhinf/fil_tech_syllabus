@@ -46,6 +46,10 @@ Het bekendste voorbeeld hiervan is Neuralink, maar de ethische vragen gaan natuu
 
   Arts en (neuro)bioloog Ronald Siecker is bang dat Neuralink "niet alleen gehandicapten helpt, maar óók gezonde mensen opzadelt met een handicap."
 
+- [iFilosofie: Jos de Mul / Over de kunstmatige identiteit van de mens](https://www.ifilosofie.nl/jos-de-mul-over-de-kunstmatige-identiteit-van-de-mens/) (2014)
+
+  \*\* / Jos de Mul legt uit waarom de mens van nature kunstmatig is: techniek is onderdeel van de mens. Hij schetst ook drie scenario's voor de toekomst van de mens.
+
 - [Filosofie Magazine: Interview Peter-Paul Verbeek: 'Technologie is ons noodlot'](https://www.filosofie.nl/interview-peter-paul-verbeek-technologie-is-ons-noodlot/) ([Link voor niet abonnees](https://archive.is/uXcVP)) (2020)
 
   \*\*\* / Interview met hoogleraar Filosofie van Mens en Techniek Peter-Paul Verbeek over hoe techniek de mens veranderd. De filosofen vliegen je om de oren, maar is zeker de moeite waard voor wat diepgang.

@@ -4,6 +4,10 @@ Is kunst door AI wel kunst? Hoe gaan we om met de trainingsdata? Moeten er regel
 
 Suggesties voor bronnen:
 
+- [VRT NWS: AI-beelden van Studio Ghibli veroveren het internet, "we betalen de ware prijs niet"](https://www.youtube.com/watch?v=GW-fPEixrHY) (2025)
+
+  Is het overnemen van stijl intellectuele diefstal? Aan het woord komen een PhD-student in artificiële intelligentie en een striptekenaar.
+
 - [NOS: Een schilderij gemaakt met AI, is dat kunst?](https://nos.nl/video/2467883-een-schilderij-gemaakt-met-ai-is-dat-kunst) (2023)
 
   Wat is kunst? Nieuwsitem over een galerie die door AI gegenereerde werken aan de muur hangt.
@@ -12,7 +16,7 @@ Suggesties voor bronnen:
 
   De titel vat het goed samen.
 
-- [This Week in Google: Google hit with $270M fine in France as authority finds news publishers' data was used for Gemini](https://youtu.be/yNQsRGm_KTw?t=1909) (31:49 - 55:30) (2024)
+- [Intelligent Machines (voorheen This Week in Google): Google hit with $270M fine in France as authority finds news publishers' data was used for Gemini](https://youtu.be/yNQsRGm_KTw?t=1909) (31:49 - 55:30) (2024)
 
   \*\* / Geen kunst, maar een vergelijkbaar copyright issue: drie journalisten discussiëren over het gebruik van nieuwsartikelen om AI te trainen. De introductie duurt even, maar op 37:21 zit een goede discussie.
 
@@ -24,7 +28,7 @@ Suggesties voor bronnen:
 
   \*\* / Filosofisch artikel. Wie maakt de kunst?
 
-- [The New York Times: An A.I.-Generated Picture Won an Art Prize. Artists Aren't Happy.](https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html) (2022)
+- [The New York Times: An A.I.-Generated Picture Won an Art Prize. Artists Aren't Happy.](https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html) ([Link zonder inloggen](https://web.archive.org/web/20220902144505/https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html)) (2022)
 
   Nog zo'n heldere titel. Was het ook oké geweest als de kunstenaar niet had vermeld dat hij AI had gebruikt?
 

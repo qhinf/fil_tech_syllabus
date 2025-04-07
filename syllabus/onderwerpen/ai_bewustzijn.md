@@ -1,6 +1,6 @@
-# De toekomst van AI
+# Superintelligentie en kunstmatig bewustzijn
 
-Wat moeten we met AI? Moeten we bang zijn? Biedt het juist kansen? Wat zijn de ethisch overwegingen?
+Gaat AI ooit een bewustzijn krijgen? Of heeft dat het al? Is het gevaarlijk als AI intelligenter wordt dan wij?
 
 Suggesties voor bronnen:
 
@@ -16,13 +16,9 @@ Suggesties voor bronnen:
 
     Het laatste AI-nieuws.
 
-- [Europees Parlement: AI-verordening: eerste regels voor artificiële intelligentie](https://www.europarl.europa.eu/topics/nl/article/20230601STO93804/ai-verordening-eerste-regels-voor-artificiele-intelligentie) (2024)
+- [Kennis in Actie: De Chinese Kamer](https://kennisinactie.blog/2024/10/05/de-chinese-kamer/) (2024)
 
-  Dit is de inzet van het Europees Parlement voor de "AI-wet". Deze wet is op 13 maart 2024 aangenomen in het parlement en wacht op moment van schrijven nog op een laatste stemming in de raad. (Zie [hier](https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?reference=2021/0106(COD)&l=en) de huidige stand.)
-
-  - [Europees Parlement: Artificiële intelligentie (onderwerp)](https://www.europarl.europa.eu/topics/nl/topic/artificial-intelligence)
-
-    Wat is AI? Hoe wordt het gebruikt? Wat zijn de kansen en gevaren?
+  Koen van Turnhout, lector Human Experience & Media Design aan de Hogeschool van Utrecht, beschrijft de Turing-test en Searle's Chinese Kamer. Wat zegt dat over intelligentie en bewustzijn?
 
 - [Filosofie Magazine: Een zelfbewuste computer is onze favoriete nachtmerrie](https://www.filosofie.nl/een-zelfbewuste-computer-is-onze-favoriete-nachtmerrie/) (2022)
 
@@ -32,14 +28,10 @@ Suggesties voor bronnen:
 
   \*\*\* / Een iets dieper filosofische benadering over het bewustzijn van diezelfde chatbot.
 
-- [MT/Sprout: Yuval Noah Harari: 'Je koelkast herkent je gevoelens straks beter dan je partner'](https://mtsprout.nl/tech-innovatie/technologieen/yuval-noah-harari) (2022)
-
-  \*\* / Over AI en werkgelegenheid. Moeten ook de creatievelingen gaan vrezen voor automatisering?
-
 - [HUMAN: De Volmaakte Mens - Interview met Nick Bostrom](https://www.human.nl/speel~POMS_VPRO_16608151~nick-bostrom~.html) (2015)
 
   Over superintelligentie: het risico dat machines ons gaan overvleugelen, of zelfs overheersen.
 
-- [3Blue1Brown: But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://www.youtube.com/watch?v=wjZofJX0v4M) (2024)
+- [VPRO: De Volmaakte Mens - De AI-Revolutie: Onsterfelijk of uitgeroeid](https://www.vpro.nl/programmas/de-volmaakte-mens/artikelen/achtergrond/de-AI-revolutie.html) (2015)
 
-  \*\*\* / Hoe werkt generatieve AI? De eerste 3 minuten zijn een goede en introductie, en de eerste 12 minuten zijn ook prima te volgen. Maar laat je niet afleiden door de wiskunde!
+  \*\* / Tim Urban (bekend van [*Wait But Why*](https://waitbutwhy.com/)) geeft een *zeer* uitvoerige analyse van mogelijke gevolgen van superintelligentie. Gaan wij uitsterven of worden we onsterfelijk?

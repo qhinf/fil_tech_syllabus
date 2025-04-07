@@ -18,7 +18,7 @@ Met een deepfake kun je iedereen van alles laten zeggen. Waarvoor mag je dat wel
 
   Een veelvoorkomend en niet zo fraai gebruik van deepfakes.
 
-- [De Correspondent: Beste Mark Rutte, zo klink je als je #klimaatleiderschap toont](https://decorrespondent.nl/12847/beste-mark-rutte-zo-klink-je-als-je-klimaatleiderschap-toont) (2021)
+- [De Correspondent: Beste Mark Rutte, zo klink je als je #klimaatleiderschap toont](https://decorrespondent.nl/12847/beste-mark-rutte-zo-klink-je-als-je-klimaatleiderschap-toont/07e9cdc8-fc27-0bd6-0370-3533b3fc042d) (2021)
 
   Een deepfake waarin Mark Rutte een toespraak houdt over de toestand van het klimaat, naar het voorbeeld van de TV-toespraken in de Corona-pandemie.
 
@@ -52,4 +52,4 @@ Met een deepfake kun je iedereen van alles laten zeggen. Waarvoor mag je dat wel
 
   - [Johnny Cash - Barbie Girl (A.I. Cover by There I Ruined It)](https://www.youtube.com/watch?v=MAFdzBTe2lg)
 
-    De Amerikaanse countryzanger uit de vorige eeuw zingt Barbie Girl en bijpassende popliedjes in een deepfake.
+    De Amerikaanse countryzanger uit de vorige eeuw zingt Barbie Girl en bijpassende popliedjes in een deepfake. Dit werd natuurlijk ook in het Amerikaanse Congres afgespeeld en [de maker geeft daarna een inkijkje in het proces om zoiets te maken](https://www.youtube.com/watch?v=-vh4ErO-i5o).

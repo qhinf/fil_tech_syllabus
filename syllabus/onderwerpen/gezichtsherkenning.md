@@ -12,7 +12,7 @@ Wat als elke bewakingscamera jou kan herkennen? En jou meteen kan linken aan fot
 
 - [Nieuwsuur: Gaat de politie te ver met gezichtsherkenning?](https://nos.nl/nieuwsuur/video/2505548-gaat-de-politie-te-ver-met-gezichtsherkenning) (2024)
 
-  Item van Nieuwsuur over het gebruik van AI, waaronder gezichtsherkenning, door de politie. De AI-wet waarover wordt gesproken is inmiddels aangenomen in het Europees Parlement, zie de bronnen bij {doc}`ai` voor meer daarover.
+  Item van Nieuwsuur over het gebruik van AI, waaronder gezichtsherkenning, door de politie. De AI-wet waarover wordt gesproken is inmiddels aangenomen in het Europees Parlement, zie de bronnen bij {doc}`ai_werk` voor meer daarover.
 
   - [Nieuwsuur: Politie experimenteert met gezichtsherkenning, maar wetgeving ontbreekt](https://nos.nl/nieuwsuur/artikel/2503831-politie-experimenteert-met-gezichtsherkenning-maar-wetgeving-ontbreekt) (2024)
 
@@ -34,7 +34,7 @@ Wat als elke bewakingscamera jou kan herkennen? En jou meteen kan linken aan fot
 
   Heldere titel, niets aan toe te voegen.
 
-- [RTL: Bewakingssysteem China groter dan gedacht: half miljard camera's](https://www.rtl.nl/tech/artikel/5316493/china-gezichtsherkenning-surveillance-spionage-cameras) (2022)
+- [Bright: Bewakingssysteem China groter dan gedacht: half miljard camera's](https://www.bright.nl/nieuws/1132614/china-gezichtsherkenning-surveillance-spionage-cameras.html) (2022)
 
   China laat zien wat je ook met gezichtsherkenning kunt doen, zeker voor gebruik in een [sociaalkredietsysteem](https://nl.wikipedia.org/wiki/Chinees_sociaalkredietsysteem).
 

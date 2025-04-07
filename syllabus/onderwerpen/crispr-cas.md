@@ -30,6 +30,10 @@ We kunnen tegenwoordig DNA bewerken alsof het een tekstbestand op de computer is
   
   Nederlanders vrezen de nadelen en zijn sceptisch over de voordelen van CRISPR-Cas, concludeert het Rathenau Instituut.
 
+- [Rathenau Instituut: Wat is de mens? Over (biomedische) technologie en 'mensverbetering'](https://www.rathenau.nl/nl/gezondheid/wat-de-mens-over-biomedische-technologie-en-mensverbetering) (2018)
+
+  \*\* - Een wetenschappelijke analyse van de wenselijkheid van mensverbetering.
+
 - [Filosofie Magazine: We worden animachines. Willen we dat wel?](https://www.filosofie.nl/we-worden-animachines-willen-we-dat-wel-2/) (2016)
 
   \*\* / Een kritisch artikel met argumenten tegen sleutelen aan de mens.
