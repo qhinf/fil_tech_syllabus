@@ -12,7 +12,7 @@ Met een deepfake kun je iedereen van alles laten zeggen. Waarvoor mag je dat wel
 
 - [Autoriteit Persoonsgegevens: Deepfakes](https://www.autoriteitpersoonsgegevens.nl/themas/internet-slimme-apparaten/beeldmateriaal/deepfakes) (n.d.)
 
-  Wat zijn de regels rond deepfakes? Wat mag wel en wat niet met betrekking tot persoonsgegevens? Maar er is meer: portretrecht, smaad en laster, vrijheid van meningsuiting, satire, ...
+  \*\*\* / Wat zijn de regels rond deepfakes? Wat mag wel en wat niet met betrekking tot persoonsgegevens? Maar er is meer: portretrecht, smaad en laster, vrijheid van meningsuiting, satire, ...
 
 - [NOS: Vrouwelijke BN'ers overwegen aangifte vanwege deepfake pornovideo's](https://nos.nl/artikel/2513371-vrouwelijke-bn-ers-overwegen-aangifte-vanwege-deepfake-pornovideo-s) (2024)
 
@@ -24,15 +24,15 @@ Met een deepfake kun je iedereen van alles laten zeggen. Waarvoor mag je dat wel
 
   - [De Correspondent: Verantwoording: Hoe onze deepfake klimaattoespraak van Mark Rutte tot stand kwam (en waar die op is gebaseerd)](https://decorrespondent.nl/12846/verantwoording-hoe-onze-deepfake-klimaattoespraak-van-mark-rutte-tot-stand-kwam-en-waar-die-op-is-gebaseerd/8eb81946-21d2-0a4c-0023-6262a663bcee) (2021)
 
-    Zie vooral punt 2: waarom een deepfake?
+    \*\*\* / Zie vooral punt 2: waarom een deepfake?
 
 - [The New Yorker: The Terrifying A.I. Scam That Uses Your Loved One’s Voice](https://www.newyorker.com/science/annals-of-artificial-intelligence/the-terrifying-ai-scam-that-uses-your-loved-ones-voice) (2024)
 
-  Criminelen zijn er natuurlijk als de kippen bij: deep fakes kun je ook gebruiken om betere scams te maken.
+  \*\*\* / Criminelen zijn er natuurlijk als de kippen bij: deep fakes kun je ook gebruiken om betere scams te maken.
 
 - [Bureau Buitenland: Deepfake-democratie in India](https://www.vpro.nl/programmas/bureau-buitenland/speel~PREPR_RA1_20141972~deepfake-democratie-in-india~.html) (2024)
 
-  Bij de verkiezingen in India dit jaar spelen deepfakes ook een rol.
+  \*\* / Bij de verkiezingen in India dit jaar spelen deepfakes ook een rol.
 
 - [RTL: Problemen met deepfakes: 4 vragen en antwoorden](https://www.rtl.nl/economie/artikel/5412068/deepfakes-nepvideos-kunstmatige-intelligentie-ai) (2023)
 
