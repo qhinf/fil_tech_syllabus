@@ -2,7 +2,13 @@
 
 Kunnen computers rechters vervangen? En willen we dan dat computers rechters vervangen?
 
-Suggesties voor bronnen:
+- [NOS: Kans op herhaling criminelen jarenlang verkeerd berekend door reclassering](https://nos.nl/artikel/2602058-kans-op-herhaling-criminelen-jarenlang-verkeerd-berekend-door-reclassering) (2026)
+
+  Hoe het in de praktijk mis kan gaan met het gebruik van algoritmes voor rechtspraak.
+
+  - [NOS: Directeur reclassering over vernietigend rapport: 'Onvoldoende kennis algoritmes'](https://nos.nl/nieuwsuur/artikel/2602206-directeur-reclassering-over-vernietigend-rapport-onvoldoende-kennis-algoritmes) (2026)
+
+    De directeur van Reclassering Nederland reageert bij Nieuwsuur.
 
 - [Mr. Online: In 2030 zullen computers rechtspreken](https://www.mr-online.nl/in-2030-zullen-computers-rechtspreken/) (2016)
 

@@ -18,17 +18,20 @@ parts:
     - file: onderwerpen/rechtspraak
     - file: onderwerpen/smart_city
     - file: onderwerpen/gezichtsherkenning
+    - file: onderwerpen/big_tech
+
+    - file: onderwerpen/social_media_beinvloeding
+    - file: onderwerpen/deepfakes # Misschien deze eruit
+    - file: onderwerpen/social_media_verbod
 
     - file: onderwerpen/ai_werk
     - file: onderwerpen/ai_kunst
-    - file: onderwerpen/deepfakes
     - file: onderwerpen/ai_bewustzijn
     - file: onderwerpen/grok
 
     - file: onderwerpen/crispr-cas
     - file: onderwerpen/brain-computer_interfaces
     
-    - file: onderwerpen/flitshandel
     - file: onderwerpen/bitcoin
 
     - file: onderwerpen/ruimtekolonisatie
