@@ -46,6 +46,10 @@ Suggesties voor bronnen:
 
   \*\*\* / De idealen achter de bitcoin en de blockchain: een democratisch geld systeem. Of gaat het nog verder dan dat?
 
+- [De Correspondent: Cashen met crypto op een palmstrand. Zo ontvlucht de verwende middenklasse het systeem dat haar rijk maakte](https://decorrespondent.nl/13463/cashen-met-crypto-op-een-palmstrand-zo-ontvlucht-de-verwende-middenklasse-het-systeem-dat-haar-rijk-maakte/18e4cdb7-6677-03b6-22a6-4fd1021385bf) (2022)
+
+  ***\* /** Waarom zou je werken voor je geld als je met een beetje crypto en wat vastgoed genoeg verdient om de hele dag op het strand te liggen?
+
 - [Filosofie Magazine: Hoe geld ons bevrijdt en inperkt](https://www.filosofie.nl/hoe-geld-ons-bevrijdt-en-inperkt/) (2022)
 
   \*\* / Wat is geld eigenlijk? Daar moeten we het toch ook over hebben. Cryptomunten komen ook aan bod.

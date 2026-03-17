@@ -3,7 +3,7 @@
 Het bekendste voorbeeld hiervan is Neuralink, maar de ethische vragen gaan natuurlijk verder dan één apparaat. Wat zijn de gevolgen als een deel van de mensheid hun brein met een computer linkt?
 
 - [NOS: Verlamde patiënt met hersenchip van Neuralink speelt potje schaak](https://nos.nl/artikel/2513622-verlamde-patient-met-hersenchip-van-neuralink-speelt-potje-schaak) (2024)
-  
+
   Een recent voorbeeld van een persoon die een hersenchip van Neuralink heeft gekregen.
 
   - [Tweakers: Neuralinks eerste hersenimplantaat in mens loopt tegen problemen aan](https://tweakers.net/nieuws/221754/neuralinks-eerste-hersenimplantaat-in-mens-loopt-tegen-problemen-aan.html) (2024)
@@ -25,7 +25,7 @@ Het bekendste voorbeeld hiervan is Neuralink, maar de ethische vragen gaan natuu
   - [De Ingenieur: Op een dag was iedereen Elon Musk](https://www.deingenieur.nl/artikel/op-een-dag-was-iedereen-elon-musk) (2021)
 
     Een van de risico's een beetje polemisch opgeschreven in een kort verhaal door Rob van Essen.
-  
+
 - [ICT&health: Geen SF meer: Brain Machine Interface en Neural link](https://icthealth.nl/nieuws/geen-sf-meer-brain-machine-interface-en-neural-link) (2022)
 
   Over de medische mogelijkheden van een brain-machine interface. Tip: CZS is een afkorting voor centraal zenuwstelsel. Dat is toch algemeen bekend?
@@ -46,10 +46,6 @@ Het bekendste voorbeeld hiervan is Neuralink, maar de ethische vragen gaan natuu
 
   Arts en (neuro)bioloog Ronald Siecker is bang dat Neuralink "niet alleen gehandicapten helpt, maar óók gezonde mensen opzadelt met een handicap."
 
-- [iFilosofie: Jos de Mul / Over de kunstmatige identiteit van de mens](https://www.ifilosofie.nl/jos-de-mul-over-de-kunstmatige-identiteit-van-de-mens/) (2014)
-
-  \*\* / Jos de Mul legt uit waarom de mens van nature kunstmatig is: techniek is onderdeel van de mens. Hij schetst ook drie scenario's voor de toekomst van de mens.
-
 - [Filosofie Magazine: Interview Peter-Paul Verbeek: 'Technologie is ons noodlot'](https://www.filosofie.nl/interview-peter-paul-verbeek-technologie-is-ons-noodlot/) ([Link voor niet abonnees](https://archive.is/uXcVP)) (2020)
 
   \*\*\* / Interview met hoogleraar Filosofie van Mens en Techniek Peter-Paul Verbeek over hoe techniek de mens veranderd. De filosofen vliegen je om de oren, maar is zeker de moeite waard voor wat diepgang.
@@ -62,6 +58,10 @@ Het bekendste voorbeeld hiervan is Neuralink, maar de ethische vragen gaan natuu
 
   Nog een nieuwsbericht over Neuralink, maar noemt ook een aantal andere bedrijven die er aan werken.
 
+- [Dutchcowboys: Neuralink gaat op grote schaal breinimplantaten maken](https://www.dutchcowboys.nl/technology/neuralink-gaat-op-grote-schaal-breinimplantaten-maken) (2026)
+
+  \* / Laatste nieuws over de ontwikkelingen van Musks neurolink.
+
 - [UCALL Blog: Hersenimplantaten van Neuralink: de toekomst of een stap te ver?](https://ucallblog.sites.uu.nl/2024/02/05/hersenimplantaten-van-neuralink-de-toekomst-of-een-stap-te-ver/) (2024)
 
-  \*\* - Een meer academische opsomming van de directe problemen en mogelijke nadelen op het gebied van privacy.
+  \*\* / Een meer academische opsomming van de directe problemen en mogelijke nadelen op het gebied van privacy.

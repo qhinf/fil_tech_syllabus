@@ -30,6 +30,10 @@ Mogen we Mars koloniseren? Om te gaan wonen of om grondstoffen te winnen? En zo 
 
   \*\* / Ruben Jacobs vindt dat we eerst maar eens moeten zorgen dat we onze eigen planeet leefbaar houden, voor al die mensen die met 99,99% zekerheid niet op Mars zullen leven.
 
-- [iFilosofie: Mars als nieuwe wereld: wat staat de mensheid te wachten?](https://www.ifilosofie.nl/mars-als-nieuwe-wereld-staat-mensheid-wachten/) (2017)
+- [Euronews: We may be able to mine asteroids in space one day. Should we?](https://www.euronews.com/next/2025/11/12/we-may-be-able-to-mine-asteroids-in-space-one-day-should-we-euronews-tech-talks) (2025)
 
-  \*\* / Analyse van voor- en tegenargumenten voor het koloniseren van Mars, en een poging enkele antwoorden te geven op de moeilijke vragen die erbij komen kijken.
+  \*\*\* / Over ruimtemijnbouw en de wenselijkheid daarvan.
+
+- [Asamaka Industries (via automate.org): Space Mining and the Next Industrial Revolution](https://www.automate.org/news/space-mining-and-the-next-industrial-revolution) (2026)
+
+  \*\* / Een overzichtsartikel (in het Engels) over hoe ruimte­mijnbouw steeds minder science‑fiction wordt.

@@ -23,6 +23,7 @@ parts:
     - file: onderwerpen/ai_kunst
     - file: onderwerpen/deepfakes
     - file: onderwerpen/ai_bewustzijn
+    - file: onderwerpen/grok
 
     - file: onderwerpen/crispr-cas
     - file: onderwerpen/brain-computer_interfaces

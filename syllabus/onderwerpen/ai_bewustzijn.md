@@ -24,14 +24,18 @@ Suggesties voor bronnen:
 
   \*\* / Over een chatbot die beweert dat die een bewustzijn heeft en andere ethische vragen.
 
-- [The Conversation: Is Google's LaMDA conscious? A philosopher's view](https://theconversation.com/is-googles-lamda-conscious-a-philosophers-view-184987) (2022)
+- [Google says its AI chatbot system LaMDA is not sentient. But how do they know? - ABC News](https://www.abc.net.au/news/science/2022-06-15/google-ai-chatbot-not-sentient-how-do-we-know-intelligence/101150090) (2022)
 
   \*\*\* / Een iets dieper filosofische benadering over het bewustzijn van diezelfde chatbot.
 
-- [HUMAN: De Volmaakte Mens - Interview met Nick Bostrom](https://www.human.nl/speel~POMS_VPRO_16608151~nick-bostrom~.html) (2015)
+- [NOS: Toezichthouder: samenleving moet zich voorbereiden op incidenten met AI](https://nos.nl/artikel/2529404-toezichthouder-samenleving-moet-zich-voorbereiden-op-incidenten-met-ai) (2024)
 
-  Over superintelligentie: het risico dat machines ons gaan overvleugelen, of zelfs overheersen.
+  \* / Een waarschuwing voor maatschappelijke gevolgen van AI.
 
-- [VPRO: De Volmaakte Mens - De AI-Revolutie: Onsterfelijk of uitgeroeid](https://www.vpro.nl/programmas/de-volmaakte-mens/artikelen/achtergrond/de-AI-revolutie.html) (2015)
+- [VPRO: De Volmaakte Mens - Nick Bostrom](https://www.vpro.nl/de-volmaakte-mens/artikelen/nick-bostrom) (2015)
 
-  \*\* / Tim Urban (bekend van [*Wait But Why*](https://waitbutwhy.com/)) geeft een *zeer* uitvoerige analyse van mogelijke gevolgen van superintelligentie. Gaan wij uitsterven of worden we onsterfelijk?
+  \*\* / Meer over een van de belangrijkste denkers over superintelligentie.
+
+- [AI Wereld: Superintelligentie](https://aiwereld.nl/superintelligentie)
+
+  \*\* / Site naar diverse bronnen over AI en superintelligentie.
