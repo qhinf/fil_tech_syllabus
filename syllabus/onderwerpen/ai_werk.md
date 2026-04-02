@@ -8,6 +8,10 @@ Suggesties voor bronnen:
 
   Daniel Susskind denkt dat er straks een wereld met fundamenteel minder werk voor mensen is. Ze bespreken hoe dat invloed heeft op de economie, op politieke macht en op zingeving.
 
+- [NRC: Is een AI-agent een machine of een werknemer?](https://www.nrc.nl/nieuws/2026/03/05/is-een-ai-agent-een-machine-of-een-werknemer-a4922235)
+
+  
+
 - [SER: AI en de arbeidsmarkt: zes vragen aan hoogleraar Anna Salomons](https://www.ser.nl/nl/actueel/zicht/op/art-ai-en-arbeidsmarkt) (2024)
 
   Anna Salomons, hoogleraar Werk en Ongelijkheid aan de Universiteit Utrecht, maakt een vergelijking met de introductie van technologieën in het verleden en stelt een aantal belangrijke vragen.

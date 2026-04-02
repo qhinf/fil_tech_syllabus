@@ -8,6 +8,10 @@ Suggesties voor bronnen:
 
   Is het overnemen van stijl intellectuele diefstal? Aan het woord komen een PhD-student in artificiële intelligentie en een striptekenaar.
 
+- [NOS: Deze artiest is op dit moment megapopulair, maar mogelijk niet echt](https://nos.nl/video/2599156-deze-artiest-is-op-dit-moment-megapopulair-maar-mogelijk-niet-echt) (2026)
+
+  En wat als we niet eens meer weten of kunst door AI of door een mens is gemaakt?
+
 - [NOS: Een schilderij gemaakt met AI, is dat kunst?](https://nos.nl/video/2467883-een-schilderij-gemaakt-met-ai-is-dat-kunst) (2023)
 
   Wat is kunst? Nieuwsitem over een galerie die door AI gegenereerde werken aan de muur hangt.
