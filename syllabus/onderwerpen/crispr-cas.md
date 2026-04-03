@@ -46,3 +46,6 @@ We kunnen tegenwoordig DNA bewerken alsof het een tekstbestand op de computer is
 
   \*\* / Engelstalig nieuwsbericht over een poging om met behulp van Crispr-techniek griep aan te pakken.
 
+- [Nerdland Maandoverzicht: April 2026 – Een bizar hybride wezen combineert kenmerken van kikker, mug en bij in één ontwerp](https://soundcloud.com/lieven-scheire/nerdland-maandoverzicht-april-2026#t=5301) (2026)
+
+  Bespreking van een toepassing van Crispr om malaria te bestrijden. Van 1:28:21 tot 1:34:45.
