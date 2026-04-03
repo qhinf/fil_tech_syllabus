@@ -18,17 +18,29 @@ Kunnen computers rechters vervangen? En willen we dan dat computers rechters ver
 
   Leo van der Wees (Senior raadsadviseur Recht & ICT bij de Raad voor de Rechtspraak, maar hier op persoonlijke titel) heeft wel wat kanttekeningen bij de uitspraken van Van den Herik.
 
-- [Raad voor de Rechtspraak: 5 vragen en antwoorden over de digitalisering van rechtspraak](https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Raad-voor-de-rechtspraak/Nieuws/Paginas/5-vragen-en-antwoorden-over-de-digitalisering-van-rechtspraak.aspx) (2018)
+- [AD: Ongeloof om Nederlandse rechter die ChatGPT gebruikt in vonnis: ‘Dit kan echt niet’](https://www.ad.nl/binnenland/ongeloof-om-nederlandse-rechter-die-chatgpt-gebruikt-in-vonnis-dit-kan-echt-niet~ae3288e10/) (2024)
 
-  Hoever staat het eigenlijk met de digitalisering van de rechtspraak? Dus niet alleen of computers rechtspreken, maar ook dat rechters überhaupt een computer gebruiken...
+  Dit gaat alleen nog maar over een rechter die ChatGPT gebruikt, maar de argumenten zijn breder toepasbaar.
+
+- [Tweakers: Rechtspraak stelt AI-strategie vast, ziet kansen voor beperkt gebruik van AI](https://tweakers.net/nieuws/235850/rechtspraak-stelt-ai-strategie-vast-ziet-kansen-voor-beperkt-gebruik-van-ai.html) (2025)
+
+  Sinds 2025 heeft "de Rechtspraak" een 10-puntenplan voor verantwoord gebruik van AI in de rechtspraak:
+
+  - [Rechtspraak: AI voor een rechtvaardige Rechtspraak](https://www.rechtspraak.nl/organisatie-en-contact/innovatie-binnen-de-rechtspraak/ai-strategie)
+
+    \*\* / De 10 punten, zoals opgesteld door de Rechtspraak.
+
+- [NRC: Neem het recht in eigen hand, met de AI-Verkenner](https://www.nrc.nl/nieuws/2025/10/21/neem-het-recht-in-eigen-hand-met-de-ai-verkenner-a4910136) ([Link voor niet abonnees](https://archive.is/vRWo0)) (2025)
+
+  Een interessant experiment met AI-rechtspraak, zonder dat er daadwerkelijk recht wordt gesproken. Het doel is juist om mensen er samen uit te laten komen.
+
+- [NSO Eques: Rechtspraak in het tijdperk van AI - Interview met prof. dr. mr. A.U. Janssen](https://equesnijmegen.nl/rechtspraak-in-het-tijdperk-van-ai-interview-met-prof-dr-mr-a-u-janssen/) (2024)
+
+  \*\* / Deze hoogleraar ziet ook mogelijkheden voor het gebruik van AI, maar heeft toch ook nog veel vragen.
 
 - [RJB Advocatuur: De computer als rechter - (on)mogelijk?](https://rjbadvocatuur.nl/rjblog/de-computer-als-rechter/) (2014)
 
   \*\*\*\* / Advocaat Robert Bakker vind computers te "recht toe recht aan" voor goede rechtspraak en legt dat uit.
-
-- [De Correspondent: Het absurde Nederlandse boetebeleid: 18.733 celstraffen voor onverzekerde auto’s (die in de garage staan)](https://decorrespondent.nl/6661/het-absurde-nederlandse-boetebeleid-18-733-celstraffen-voor-onverzekerde-auto-s-die-in-de-garage-staan/c95e4586-cf9f-08b5-27c4-0c10b9bc6563) (2017)
-
-  Kunnen we wetgeving meer "recht toe recht aan" maken? Geautomatiseerde handhaving kan zo zijn gevolgen hebben...
 
 - [CPO Academy: "De rechtspraak leent zich natuurlijk niet voor 'computer says no'-achtige scenario's"](https://web.archive.org/web/20231204071203/https://www.ru.nl/cpo/academy/columns/rechtspraak-leent-natuurlijk-computer-says-no/) (2018)
 
@@ -36,18 +48,10 @@ Kunnen computers rechters vervangen? En willen we dan dat computers rechters ver
 
   - Voor wie de "Computer says no"-referentie niet kent: [Little Britain](https://www.youtube.com/watch?v=x0YGZPycMEU)
 
-- [Raad voor de Rechtspraak: Dag van de Rechtspraak: computer vs rechter](https://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Raad-voor-de-rechtspraak/Nieuws/Paginas/Dag-van-de-Rechtspraak-computer-vs-rechter.aspx) (2017)
-
-  Experiment met twee zaken waarbij zowel een computerprogramma als een rechter om een oordeel zijn gevraagd.
-
 - [Cathy O'Neil: Civilian Casualties: Justice in the Age of Big Tech uit het boek Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://quadraam.sharepoint.com/:b:/s/QH991117889/EeFMqK2UE9lDs2c-AqDGcD8BIyOXe3GYI0i0L-qB64mOmg?e=hWbtir) (2016)
 
   \*\*\* / Hoe Big data en de inherente vooroordelen kunnen leiden tot ongelijkheid, waarom dat een mogelijk gevaar is voor de rechtspraak en de democratie.
 
-- [Unite.AI: 9 "Best" AI Legal Assistants](https://www.unite.ai/best-ai-legal-assistants/) (2024)
+- [HVG Law: We evalueerden 40+ juridische AI-tools: dit zijn onze bevindingen](https://www.hvglaw.nl/2025/09/24/we-evalueerden-40-juridische-ai-tools-dit-zijn-onze-bevindingen/) (2025)
 
-  Wat is de *state of the art*? En sinds wanneer gebruiken we sarcastische quotes in artikelkoppen?
-
-- [Tweakers: Amerikaanse advocaten gestraft na citeren door ChatGPT verzonnen zaken](https://tweakers.net/nieuws/211116/amerikaanse-advocaten-gestraft-na-citeren-door-chatgpt-verzonnen-zaken.html) (2023)
-
-  Ook AI als ondersteuning gaat niet altijd goed.
+  Bij dit advocatenkantoor gingen ze op zoek naar de AI-tools die hen het beste konden ondersteunen en hier beschrijven ze de criteria die ze daarvoor hanteren.
