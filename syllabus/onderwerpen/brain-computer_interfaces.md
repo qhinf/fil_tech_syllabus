@@ -14,7 +14,7 @@ Het bekendste voorbeeld hiervan is Neuralink, maar de ethische vragen gaan natuu
 
   Hoogleraar neurologie Pieter Roelfsma geeft een korte introductie in een interview met RTL.
 
-- [Builtin: What Is Neuralink? What We Know So Far.](https://builtin.com/hardware/what-is-neuralink)
+- [Builtin: What Is Neuralink? What We Know So Far.](https://builtin.com/hardware/what-is-neuralink) (2026)
 
   Een beknopt overzicht van wat Neuralink is en wat het kan. Lees vooral het kopje "How Does Neuralink Work?".
 

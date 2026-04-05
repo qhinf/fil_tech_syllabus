@@ -10,7 +10,7 @@ We kunnen tegenwoordig DNA bewerken alsof het een tekstbestand op de computer is
 
   Over een medische toepassing van CRISPR-Cas op mensen.
 
-- [De Correspondent: Erfelijke ziekten uitroeien: met deze wetenschappelijke doorbraak kan het](https://decorrespondent.nl/7145/erfelijke-ziekten-uitroeien-met-deze-wetenschappelijke-doorbraak-kan-het/0014644f-9e7f-0c08-034d-4f681320980e)
+- [De Correspondent: Erfelijke ziekten uitroeien: met deze wetenschappelijke doorbraak kan het](https://decorrespondent.nl/7145/erfelijke-ziekten-uitroeien-met-deze-wetenschappelijke-doorbraak-kan-het/0014644f-9e7f-0c08-034d-4f681320980e) (2017)
 
   Een introductie van CRISPR-Cas, mogelijke toepassingen op mens en dier en de ethische vragen die daarbij komen kijken. Merk ook op dat planten helemaal niet aan bod komen.
 
@@ -24,7 +24,7 @@ We kunnen tegenwoordig DNA bewerken alsof het een tekstbestand op de computer is
 
 - [Rathenau Instituut: Wat is de mens? Over (biomedische) technologie en 'mensverbetering'](https://www.rathenau.nl/nl/gezondheid/wat-de-mens-over-biomedische-technologie-en-mensverbetering) (2018)
 
-  \*\* - Een wetenschappelijke analyse van de wenselijkheid van mensverbetering.
+  \*\* / Een wetenschappelijke analyse van de wenselijkheid van mensverbetering.
 
 - [Filosofie Magazine: We worden animachines. Willen we dat wel?](https://www.filosofie.nl/we-worden-animachines-willen-we-dat-wel-2/) (2016)
 

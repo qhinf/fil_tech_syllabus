@@ -8,7 +8,7 @@ Suggesties voor bronnen:
 
   Daniel Susskind denkt dat er straks een wereld met fundamenteel minder werk voor mensen is. Ze bespreken hoe dat invloed heeft op de economie, op politieke macht en op zingeving.
 
-- [NRC: Is een AI-agent een machine of een werknemer?](https://www.nrc.nl/nieuws/2026/03/05/is-een-ai-agent-een-machine-of-een-werknemer-a4922235)
+- [NRC: Is een AI-agent een machine of een werknemer?](https://www.nrc.nl/nieuws/2026/03/05/is-een-ai-agent-een-machine-of-een-werknemer-a4922235) (2026)
 
   
 
@@ -20,7 +20,7 @@ Suggesties voor bronnen:
 
   \*\* / Maurits Martijn geeft ook een beetje historische context, mede gebaseerd op het werk van de eerdere genoemde hoogleraar Anna Solomons. Wat zijn de mogelijke gevolgen van meer AI op de arbeidsmarkt?
 
-- [Passionned Group: Wat is Artificial Intelligence? De gids voor succesvolle Kunstmatige Intelligentie & AI toepassingen](https://www.passionned.nl/artificial-intelligence/)
+- [Passionned Group: Wat is Artificial Intelligence? De gids voor succesvolle Kunstmatige Intelligentie & AI toepassingen](https://www.passionned.nl/artificial-intelligence/) (n.d.)
 
   Wat is AI? Een introductie door mensen die het je graag verkopen (gericht op bedrijven en organisaties). Goed overzicht van verschillende soorten en toepassingen.
 

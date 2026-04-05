@@ -4,7 +4,7 @@ Gaat AI ooit een bewustzijn krijgen? Of heeft dat het al? Is het gevaarlijk als 
 
 Suggesties voor bronnen:
 
-- [Passionned Group: Wat is Artificial Intelligence? De gids voor succesvolle Kunstmatige Intelligentie & AI toepassingen](https://www.passionned.nl/artificial-intelligence/)
+- [Passionned Group: Wat is Artificial Intelligence? De gids voor succesvolle Kunstmatige Intelligentie & AI toepassingen](https://www.passionned.nl/artificial-intelligence/) (n.d.)
 
   Wat is AI? Een introductie door mensen die het je graag verkopen (gericht op bedrijven en organisaties). Goed overzicht van verschillende soorten en toepassingen.
 
@@ -36,6 +36,6 @@ Suggesties voor bronnen:
 
   \*\* / Meer over een van de belangrijkste denkers over superintelligentie.
 
-- [AI Wereld: Superintelligentie](https://aiwereld.nl/superintelligentie)
+- [AI Wereld: Superintelligentie](https://aiwereld.nl/superintelligentie) (n.d.)
 
   \*\* / Site naar diverse bronnen over AI en superintelligentie.

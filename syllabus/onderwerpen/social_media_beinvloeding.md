@@ -32,7 +32,7 @@
 
   \*\* / Over een nieuwe app die een eerlijk alternatief voor TikTok wil bieden.
 
-- [Nederlands Jeugdinstituut: De invloed van media op polarisatie](https://www.nji.nl/kennis/polarisatie/de-invloed-van-media-op-polarisatie) 
+- [Nederlands Jeugdinstituut: De invloed van media op polarisatie](https://www.nji.nl/kennis/polarisatie/de-invloed-van-media-op-polarisatie) (n.d.)
 
   \*\* / Hoe kunnen media zorgen voor meer polarisatie?
 
