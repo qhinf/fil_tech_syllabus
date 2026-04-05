@@ -17,7 +17,6 @@ parts:
     chapters:
     - file: onderwerpen/rechtspraak
     - file: onderwerpen/smart_city
-    - file: onderwerpen/gezichtsherkenning
     - file: onderwerpen/big_tech
 
     - file: onderwerpen/social_media_beinvloeding
