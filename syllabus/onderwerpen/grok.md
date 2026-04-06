@@ -10,6 +10,10 @@ We kunnen tegenwoordig van alles met AI, maar wat vinden we nog oké?
 
   \*\* / Een vergelijking tussen de grensoverschrijding door verschillende soorten AI.
 
+- [NRC: Verbijstering in Duitsland: tv-ster zegt dat haar ex fake pornobeelden van haar verspreidde](https://www.nrc.nl/nieuws/2026/03/23/verbijstering-in-duitsland-tv-ster-zegt-dat-haar-ex-fake-pornobeelden-van-haar-verspreidde-a4923764) ([Link voor niet abonnees](https://archive.is/pxpYu)) (2026)
+
+  \* / Een prominent geval van het gebruik van AI-uitkleedapps in Duitsland. Collien Fernandes deed daarvoor aangifte in Spanje, omdat het in Duitsland waarschijnlijk niet strafbaar is.
+
 - [HLN: Controversiële AI-assistent Grok wordt beschikbaar in Europa voor Tesla’s](https://www.hln.be/tech/controversiele-ai-assistent-grok-wordt-beschikbaar-in-europa-voor-teslas~adcb6de7/) (2026)
 
   \*\* / Nieuwsbericht over de koppeling tussen Grok en Tesla.
