@@ -28,6 +28,14 @@ Suggesties voor bronnen:
 
   \*\*\* / Een iets dieper filosofische benadering over het bewustzijn van diezelfde chatbot.
 
+- [De Groene Amsterdammer: Taal is ons ding](https://www.groene.nl/artikel/taal-is-ons-ding) (2023)
+
+  \*\*\* / Marja Pruis bespreekt Emily Benders idee van de *stochastic parrot*.
+
+- [VPRO Tegenlicht: AI is coming for your feelings!](https://tegenlicht.vpro.nl/artikelen/ai-is-coming-for-your-feelings) (2025)
+
+  \*\* / Filosoof Susan Schneider over de vraag "Wat als AI bewustzijn ontwikkelt?"
+
 - [NOS: Toezichthouder: samenleving moet zich voorbereiden op incidenten met AI](https://nos.nl/artikel/2529404-toezichthouder-samenleving-moet-zich-voorbereiden-op-incidenten-met-ai) (2024)
 
   \* / Een waarschuwing voor maatschappelijke gevolgen van AI.
