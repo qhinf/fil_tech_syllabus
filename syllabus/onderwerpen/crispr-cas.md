@@ -49,3 +49,7 @@ We kunnen tegenwoordig DNA bewerken alsof het een tekstbestand op de computer is
 - [Nerdland Maandoverzicht: April 2026 – Een bizar hybride wezen combineert kenmerken van kikker, mug en bij in één ontwerp](https://soundcloud.com/lieven-scheire/nerdland-maandoverzicht-april-2026#t=5301) (2026)
 
   Bespreking van een toepassing van Crispr om malaria te bestrijden. Van 1:28:21 tot 1:34:45.
+
+- [VPRO Tegenlicht: De geboorte van de techbaby](https://tegenlicht.vpro.nl/artikelen/de-geboorte-van-de-techbaby) (2026)
+
+  Crispr wordt niet per se genoemd, maar het *tech solutionism* druipt er ook hier vanaf met veel gerelateerde technieken.
