@@ -36,6 +36,10 @@ Suggesties voor bronnen:
 
   In 2025 bracht de Sociaal-Economische Raad een advies uit over AI en werk. Bekijk ook de publieksversie (\*\*\*) voor wat uitgebreidere uitleg of het hele rapport (\*\*\*\*) voor de uitgebreide onderbouwing.
 
+- [Locus: Commentary: Cory Doctorow: Reverse Centaurs](https://locusmag.com/feature/commentary-cory-doctorow-reverse-centaurs/) (2025)
+
+  \*\* / Cory Doctorow schrijft over twee manieren hoe AI je kan "helpen" bij je werk, volgens de analogie van de centaur: een mythologisch wezen met het onderlichaam van een paard en het torso van een mens.
+
 - [De Correspondent: Raken we door kunstmatige intelligentie allemaal onze baan kwijt?](https://decorrespondent.nl/15211/raken-we-door-kunstmatige-intelligentie-allemaal-onze-baan-kwijt/058fc7a1-bb82-08ba-3952-59c6d83e3d65) (2024)
 
   \*\* / Maurits Martijn geeft ook een beetje historische context, mede gebaseerd op het werk van de eerdere genoemde hoogleraar Anna Solomons. Wat zijn de mogelijke gevolgen van meer AI op de arbeidsmarkt?
