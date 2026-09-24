@@ -49,8 +49,8 @@ sphinx:
     # een volgende editie.
     myst_substitutions:
       versie: "Globaal afgehandeld. Niet wijzigen."
-      datum: "woensdag 8 april, 9:00 - 20:00"
-      docent: "Karen van Wichen en Arthur Rump"
+      datum: "woensdag 7 oktober, 9:00 - 20:00"
+      docent: "Karen van Wichen en Pieter van Engelen"
 
 
 # html, repository en launch_buttons instellingen worden globaal voor alle
