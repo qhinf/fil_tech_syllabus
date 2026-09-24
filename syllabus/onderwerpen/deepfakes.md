@@ -52,10 +52,6 @@ Met een deepfake kun je iedereen van alles laten zeggen. Waarvoor mag je dat wel
 
   Kunnen deepfakes ook een manier zijn om iedereen creativiteit te geven?
 
-- [ExpressVPN: Deepfake maken? Ontdek de 14 beste deepfake-apps](https://www.expressvpn.com/nl/blog/best-deepfake-apps/) (2024)
-
-  Waarom een VPN provider een lijstje met deep fake apps maakt? Ik zou het niet weten. Maar het is wel een leuk overzicht van wat je tegenwoordig zonder enige kennis van technologie bij elkaar kan klikken.
-
 - [FakeYou](https://fakeyou.com/)
 
   En het houdt natuurlijk niet op bij video: ook muziek en stemmen moeten er aan geloven.
