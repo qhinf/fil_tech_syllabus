@@ -4,7 +4,7 @@ Achter elke chatbot zitten mensen die voor een paar dollar per uur de gruwelijks
 
 ## De verborgen arbeid achter AI
 
-Taalmodellem als ChatGPT en Claude leren niet vanzelf wat een "goed" of een "schadelijk" antwoord is. Daarvoor zijn mensen nodig die duizenden voorbeelden met de hand beoordelen en labelen. Met die labels wordt het model bijgestuurd: *reinforcement learning from human feedback* (RLHF). Dat werk wordt vaak uitbesteed aan onderaannemers in landen waar arbeid goedkoop is.
+Een taalmodel als ChatGPT leert niet vanzelf wat een "goed" of een "schadelijk" antwoord is. Daarvoor zijn mensen nodig die duizenden voorbeelden met de hand beoordelen en labelen. Met die labels wordt het model bijgestuurd: *reinforcement learning from human feedback* (RLHF). Dat werk wordt vaak uitbesteed aan onderaannemers in landen waar arbeid goedkoop is.
 
 - [NOS Nieuwsuur: Het 'smerige mensenwerk' achter de race naar betere AI](https://nos.nl/nieuwsuur/artikel/2592453-het-smerige-mensenwerk-achter-de-race-naar-betere-ai) (2025)
 
@@ -14,25 +14,9 @@ Taalmodellem als ChatGPT en Claude leren niet vanzelf wat een "goed" of een "sch
 
   \*\* / Maurits Martijn legt uit hoe het "veilig maken" van ChatGPT werkt en wie dat werk eigenlijk doet.
 
-  - [TIME: OpenAI Used Kenyan Workers on Less Than $2 Per Hour](https://time.com/6247678/openai-chatgpt-kenya-workers/) (2023)
-
-    \*\*\* / Het oorspronkelijke onderzoek van Billy Perrigo. OpenAI betaalde het bedrijf Sama $12,50 per uur per werknemer, de werknemers zelf kregen tussen de $1,32 en $2. Waar blijft de rest?
-
 - [Racism and Technology Center: Filipino workers in "digital sweatshops" train AI models for the West](https://racismandtechnology.center/2023/09/01/filipino-workers-in-digital-sweatshops-train-ai-models-for-the-west/) (2023)
 
   \*\* / Het platform Remotasks, van het miljardenbedrijf Scale AI, laat Filipijnse werkers data labelen, maar houdt soms zonder uitleg hun loon in. Deze Nederlandse organisatie vat het onderzoek van de Washington Post samen en legt de link met koloniale geschiedenis.
-
-  - [Washington Post: Behind the AI boom, an army of overseas workers in 'digital sweatshops'](https://www.washingtonpost.com/world/2023/08/28/scale-ai-remotasks-philippines-artificial-intelligence/) (2023)
-
-    \*\*\* / Het oorspronkelijke artikel (achter een betaalmuur).
-
-- [MT/Sprout: Datakolonialisme: de verborgen uitbuiting achter de AI-revolutie](https://mtsprout.nl/tech-innovatie/in-de-schaduw-van-ai-madhumita-murgia) (2024)
-
-  \* / Over het boek *In de schaduw van AI* van FT-journalist Madhumita Murgia, met voorbeelden uit Kenia, Venezuela en India. Wat bedoelt ze met *datakolonialisme*?
-
-- [Oxford Internet Institute: New Oxford Report Sheds Light on Labour Malpractices in the Remote Work and AI Booms](https://www.oii.ox.ac.uk/new-oxford-report-sheds-light-on-labour-malpractices-in-the-remote-work-and-ai-booms/) (2023)
-
-  \*\*\* / Het Fairwork-project beoordeelt online werkplatforms op vijf principes: eerlijk loon, eerlijke omstandigheden, eerlijke contracten, eerlijk management en eerlijke vertegenwoordiging. Scale AI (Remotasks) scoorde 1 van de 10 punten. Zijn dit bruikbare voorwaarden voor verantwoorde AI?
 
 ## Water en stroom: de fysieke kant van "de cloud"
 
@@ -42,14 +26,6 @@ AI draait niet in een wolk, maar in enorme gebouwen vol servers die gekoeld moet
 
   \*\* / Het geplande datacenter van Google in Uruguay zou 7,6 miljoen liter water per dag gebruiken, evenveel als 55.000 inwoners van Montevideo. Die inwoners kregen op dat moment zout water uit de kraan.
 
-- [Mongabay: The Cloud vs. drought: Water hog data centers threaten Latin America, critics say](https://news.mongabay.com/2023/11/the-cloud-vs-drought-water-hog-data-centers-threaten-latin-america-critics-say/) (2023)
-
-  \*\*\* / Een overzicht van de protesten in Chili (Cerrillos en Quilicura) en Uruguay (Canelones), onder de leus "Het is geen droogte, het is plundering!"
-
-- [Logic(s): Exposing Google's Seizure of Water in Drought-Impacted Uruguay](https://logicmag.io/land/exposing-googles-seizure-of-water-in-drought-impacted-uruguay-a-conversation/) (2025)
-
-  \*\*\* / Onderzoeker Daniel Pena stapte naar de rechter om de geheime milieurapporten boven water te krijgen. Google maakte het project daarna drie keer kleiner en koos voor luchtkoeling. Uruguay heeft water sinds 2004 als mensenrecht in de grondwet staan: wat betekent dat voor zo'n datacenter?
-
 - [Down To Earth: "We saw a state apparatus completely subordinated to corporate interests"](https://www.downtoearth.org.in/science-technology/we-saw-a-state-apparatus-completely-subordinated-to-corporate-interests) (2026)
 
   \*\*\* / Interview met twee leden van MOSACAT, de buurtbeweging uit Cerrillos (Chili) die het Google-datacenter tegenhield. Hun waarschuwing aan India: een datacenter levert weinig banen op en kost veel stroom en water.
@@ -58,10 +34,6 @@ AI draait niet in een wolk, maar in enorme gebouwen vol servers die gekoeld moet
 
   \* / Het speelt ook dichter bij huis: tijdens de droogte van 2022 bleek dat Microsoft in Noord-Holland vier keer zoveel drinkwater had gebruikt als toegezegd.
 
-  - [Computable: Datacenters Big Tech vergroten de droogte](https://www.computable.nl/2025/04/11/datacenters-big-tech-vergroten-de-droogte/) (2025)
-
-    \* / Amazon, Microsoft en Google hebben tientallen datacenters in gebieden met waterschaarste, en er komen er nog veel bij. Ze beloven "waterpositief" te worden door elders water te compenseren. Heeft de lokale bevolking daar iets aan?
-
 ## AI als nieuw imperium?
 
 Karen Hao vergelijkt de grote AI-bedrijven met de koloniale rijken van vroeger: ze nemen grondstoffen (data, water, land en arbeid) uit andere delen van de wereld, terwijl de winst en de macht in Silicon Valley blijven. Is die vergelijking terecht, of gaat ze te ver?
@@ -69,14 +41,6 @@ Karen Hao vergelijkt de grote AI-bedrijven met de koloniale rijken van vroeger: 
 - [Rest of World: Why AI advancement doesn't have to come at the expense of marginalized workers](https://restofworld.org/2025/karen-hao-empire-of-ai-book/) (2025)
 
   \*\* / Over het boek *Empire of AI*: de verhalen uit Kenia, Venezuela en Nieuw-Zeeland op een rij. Uitbuiting is volgens Hao geen technische noodzaak, maar een keuze.
-
-- [Tech Policy Press: Decolonizing the Future: Karen Hao on Resisting the Empire of AI](https://www.techpolicy.press/decolonizing-the-future-karen-hao-on-resisting-the-empire-of-ai/) (2025)
-
-  \*\*\* / Podcast (met uitgeschreven tekst) waarin Hao uitlegt waarom ze het woord "imperium" gebruikt, en waarom ze meer verwacht van verzet van onderop dan van regels van bovenaf.
-
-- [Karen Hao: Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI](https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/) (2025)
-
-  \*\*\*\* / Het boek zelf. Pittig, maar lees bijvoorbeeld het hoofdstuk over de datalabelers in Kenia of het verhaal over Te Hiku Media.
 
 ## Een ander model: Te Hiku Media en de Māori-taal
 
@@ -89,10 +53,6 @@ Te Hiku Media is een klein Māori-radiostation in het noorden van Nieuw-Zeeland.
 - [Te Hiku Media: Data Sovereignty and the Kaitiakitanga License](https://tehiku.nz/te-hiku-tech/te-hiku-dev-korero/25141/data-sovereignty-and-the-kaitiakitanga-license) (2022)
 
   \*\*\* / De eigen uitleg van Te Hiku Media over hun licentie. *Kaitiakitanga* betekent zoiets als "rentmeesterschap": je bent geen eigenaar van de data, maar beheerder namens de mensen van wie ze afkomstig is. Wat is het verschil?
-
-- [IEEE Spectrum: Māori Text-to-Speech Model Spurns Big Tech's Values](https://spectrum.ieee.org/indigenous-ai-voice-models-maori) (2026)
-
-  \*\*\* / Een nieuwer voorbeeld: de Universiteit van Waikato bouwde een Māori-voorleesstem met minder dan acht uur aan opnames. Het eigendom ligt bij drie Māori-stammen, niet bij de universiteit.
 
 - [Ada Lovelace Institute: Working with the CARE principles: operationalising Indigenous data governance](https://www.adalovelaceinstitute.org/blog/care-principles-operationalising-indigenous-data-governance/) (2020)
 
