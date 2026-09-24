@@ -26,9 +26,9 @@ parts:
     - file: onderwerpen/ai_werk
     - file: onderwerpen/ai_kunst
     - file: onderwerpen/ai_bewustzijn
-    - file: onderwerpen/grok
     - file: onderwerpen/ai_uitbuiting
-
+    - file: onderwerpen/grok
+    
     - file: onderwerpen/crispr-cas
     - file: onderwerpen/brain-computer_interfaces
     
