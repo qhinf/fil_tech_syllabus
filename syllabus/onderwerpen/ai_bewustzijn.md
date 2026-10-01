@@ -24,6 +24,10 @@ Suggesties voor bronnen:
 
   \*\* / Over een chatbot die beweert dat die een bewustzijn heeft en andere ethische vragen.
 
+- [Barend Last: Het monster had ook een maker](https://barendlast.substack.com/p/het-monster-had-ook-een-maker)
+
+  Barend Last, leraar, onderwijskundige en columnist, beschrijft het probleem aan het toedichten van menselijke gedragingen aan zwermen van computers. 
+
 - [Google says its AI chatbot system LaMDA is not sentient. But how do they know? - ABC News](https://www.abc.net.au/news/science/2022-06-15/google-ai-chatbot-not-sentient-how-do-we-know-intelligence/101150090) (2022)
 
   \*\*\* / Een iets dieper filosofische benadering over het bewustzijn van diezelfde chatbot.
