@@ -27,6 +27,7 @@ parts:
     - file: onderwerpen/ai_kunst
     - file: onderwerpen/ai_bewustzijn
     - file: onderwerpen/ai_uitbuiting
+    - file: onderwerpen/ai_relatie
     - file: onderwerpen/grok
     
     - file: onderwerpen/crispr-cas
